@@ -1,5 +1,5 @@
 {
-  "name": "Squirtle-Bot",
+  "name": "Aizen - Bot",
   "version": "2.0.0",
   "description": "Simple WhatsApp bot, Modified by RIOTIX - Dexter",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["whatsapp-bot", "Squirtle-Bot"],
+  "keywords": ["whatsapp-bot", "Aizen-Bot"],
   "author": "RIOTX - Dexter",
   "license": "MIT",
   "dependencies": {
